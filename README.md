@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I an Oliver</h1>
+<h1 align="center">Hi 👋, I am Oliver</h1>
 <h3 align="center">A passionate backend developer from Hannover, Germany</h3>
 
 - 🌱 I’m currently doing **Python, Alteryx, Ruby on Rails**
